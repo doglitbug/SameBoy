@@ -1,0 +1,9 @@
+# JetBrains
+.idea/
+
+# CMake
+build/
+cmake-build-debug/
+
+# Misc
+ROMs/
